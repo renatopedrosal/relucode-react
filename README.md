@@ -4,6 +4,10 @@ ReluCode é uma empresa especializada no desenvolvimento de software personaliza
 
 ---
 
+## 💻​ Site
+
+https://relucode.com.br
+
 ## 🧠 Sobre o Projeto
 
 Este é o site oficial da **ReluCode**, desenvolvido com o objetivo de apresentar os serviços, portfólio e informações institucionais da empresa de forma moderna, intuitiva e responsiva.
@@ -27,13 +31,5 @@ Este é o site oficial da **ReluCode**, desenvolvido com o objetivo de apresenta
 - [Tailwind CSS](https://tailwindcss.com/) – estilização moderna e eficiente
 - [React Router](https://reactrouter.com/) – navegação entre páginas
 - [Lucide Icons](https://lucide.dev/) – ícones leves e personalizáveis
-
----
-
-## 📸 Prévia
-
-Veja uma prévia do projeto rodando localmente:
-
-![Preview](relucode-site.png)
 
 ---
